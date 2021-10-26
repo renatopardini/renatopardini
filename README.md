@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renato Pardini</h1>
+<h1 align="center">Hi 👋, I'm Renato Pardini <h1 align="center">Hi 👋, I'm Renato Pardini <img src="https://visitor-badge.laobi.icu/badge?page_id=renatopardini.renatopardini" alt="visitors"></h1></h1>
 <h3 align="center">A passionate fullstack developer from São Paulo</h3>
 
 - 🌱 I’m currently learning **React Native, TypeScript and TDD**

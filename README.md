@@ -11,7 +11,31 @@
 <br/>
 
 ```javascript
-//...
+const WhoAmI = {
+  user: "Renato Pardini",
+  role: "fullstack",
+  current_company: "Tecban",
+  location: "São Paulo - SP",
+  currently_learning: [
+    "React Native",
+    "Typescript"
+  ],
+  hobbies: [
+   "Studying",
+   "Watching Series",
+   "Try to take over the world"
+  ],
+}
+
+useEffect(() => {
+    setLanguage('en');
+}, [language]);
+
+function Ambitions() {
+  CreateMyStartup();
+  SocialProjectsOpenSource();
+  AchieveWorldDomination();
+}
 ```
 
 ---

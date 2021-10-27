@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Renato Pardini <img src="https://visitor-badge.laobi.icu/badge?page_id=renatopardini.renatopardini" alt="visitors"></h1>
-<h3 align="center">A desenvolvedor fullstack de São Paulo</h3>
+<h3 align="center">Um desenvolvedor fullstack de São Paulo</h3>
 
 <table align="center">
     <tr>

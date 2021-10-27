@@ -29,7 +29,7 @@ const WhoAmI = {
 
 useEffect(() => {
     setLanguage('en');
-}, [language]);
+}, []);
 
 function Ambitions() {
   CreateMyStartup();
